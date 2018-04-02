@@ -1,2 +1,2 @@
 This is my readme file
-"Greetings!"# Git-repo-1
+"Greetings & Salutations!"# Git-repo-1
